@@ -13,7 +13,9 @@ public class AInsertionSort
         {
             for(int check = myNumber[postrac]; check < myNumber[postrac-1]; check++){
 
-                if(myNumber[postrac] < myNumber[postrac]-1)
+                if(myNumber[postrac] < myNumber[postrac]-1){
+                    
+                }
                     
 
             }
